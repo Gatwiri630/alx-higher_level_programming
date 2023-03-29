@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Write a function that prints x elements of a list.
 
 Prototype: def safe_print_list(my_list=[], x=0):
@@ -9,3 +10,6 @@ Returns the real number of elements printed
 You have to use try: / except:
 You are not allowed to import any module
 You are not allowed to use len()
+=======
+Python - Exceptions
+>>>>>>> 1061a5e1e9e3c972dd915bb55c72e7fb06847607
